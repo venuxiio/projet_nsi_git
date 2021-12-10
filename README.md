@@ -20,7 +20,8 @@ description un peu plus détaillée du jeu:
 References:
 
 
-![image](https://user-images.githubusercontent.com/95481660/145577070-81f30e55-64e0-4e32-adc7-f0ed2e074306.png)
+![image](https://user-images.githubusercontent.com/95481660/145577070-81f30e55-64e0-4e32-adc7-f0ed2e074306.png) ; ![image](https://user-images.githubusercontent.com/95481694/145581123-5fd0c17f-ec84-4bbe-9615-cbc054b1292b.png)
+
 
 ![image](https://user-images.githubusercontent.com/95481694/145578967-6b2150a0-a88c-4151-9629-f9c089327240.png) ; ![image](https://user-images.githubusercontent.com/95481694/145579029-c0f4663f-897a-4eca-a8bb-c9506566b5ae.png)
 
