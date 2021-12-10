@@ -13,6 +13,8 @@ description un peu plus détaillée du jeu:
 
 -petites maisons ou il y aura des minis jeux et des enigmes 
 
+-pour le moment commencer par mettre qu'une petite maison avec un mini jeu dedans
+
 -dans l'idées mettre 4 petites maisons (2mini jeu: mémorie et puzzle; 2 énigmes)
 
 References:
@@ -23,3 +25,4 @@ References:
 ![image](https://user-images.githubusercontent.com/95481694/145578967-6b2150a0-a88c-4151-9629-f9c089327240.png) ; ![image](https://user-images.githubusercontent.com/95481694/145579029-c0f4663f-897a-4eca-a8bb-c9506566b5ae.png)
 
 
+![image](https://user-images.githubusercontent.com/95481694/145579738-15fb2a74-dddd-4c99-8c1e-bc3dc83667f2.png)
