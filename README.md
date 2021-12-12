@@ -26,6 +26,15 @@ description un peu plus détaillée du jeu:
 ______________________________________________________________________________________________________
 
 - pour le moment commencer par mettre une seule petite maison avec un mini jeu dedans pour tester
+______________________________________________________________________________________________________
+
+chronologie:
+
+- définir le labyrinthe 
+- définir sa taille et la taille du zoom
+- définir le personnage et sa taille 
+- dessiner le labyrinthe et le personnage 
+- tester
 
 
 
