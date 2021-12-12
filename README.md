@@ -1,21 +1,34 @@
 # projet_nsi_git
 Jade RICHEZ, Perrine BRON
 
-jeu en vue contre plongé (exemple pokémon)
+jeu en vue contre plongée (exemple pokémon)
 
-tapper sur internet pour trouver des idée: 2D games ideas pixel
+tapper sur internet pour trouver des idées: 2D games ideas pixel
 
 bibliothèque py.game (python)
 
 description un peu plus détaillée du jeu:
 
--labyrinte où on doit trouver des clés pour ouvrir des petites maisons 
+- un personnage se déplace dans un labyrinthe, il a trois vies
 
--petites maisons ou il y aura des minis jeux et des enigmes 
+- il se retrouve face à une petite maison fermée à clé et ne peut plus avancer
 
--pour le moment commencer par mettre qu'une petite maison avec un mini jeu dedans
+- s'il a la clé il peut entrer sinon il doit aller chercher la clé
 
--dans l'idées mettre 4 petites maisons (2mini jeu: mémorie et puzzle; 2 énigmes)
+- une fois dans la maison il doit faire un jeu ou répondre à une énigme pour ouvrir la porte de sortie de la maison qui lui permet de poursuivre son chemin dans le labyrinthe
+
+- s'il échoue il perd une vie et doit recommencer le jeu ou l'énigme de la maison où il se trouve
+
+- au cours du jeu il peut devenir une fois " passe muraille" et sortir de la maison sans faire le jeu
+
+- il y aurait 4 maisons (2 mini-jeux: mémory et puzzle; 2 énigmes)
+
+______________________________________________________________________________________________________
+
+- pour le moment commencer par mettre une seule petite maison avec un mini jeu dedans pour tester
+
+
+
 
 References:
 
