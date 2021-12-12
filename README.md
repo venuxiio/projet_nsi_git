@@ -35,8 +35,11 @@ chronologie:
 - définir le personnage et sa taille 
 - dessiner le labyrinthe et le personnage 
 - tester
-
-
+  - afficher une image avec pygame
+  - afficher plusieurs images
+  - déplacer une image 
+  - le zoom
+  - succession d'image
 
 
 References:
