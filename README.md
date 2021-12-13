@@ -59,12 +59,17 @@ Idee du labyrinthe :
 ![image](https://user-images.githubusercontent.com/95481660/145583625-6f7a5aa6-5061-4b80-a770-b2a0c381d68c.png)
 
 ![image](https://user-images.githubusercontent.com/95481660/145786144-4e16f51e-8a48-4ebd-8952-1f184bff4e7f.png)
+exemple du logiciel Tiled qui permet de creer des maps
+
+
 
 liens:
 
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
 
 dessiner en pixel: https://pixelover.io/
+
+
 
 logiciels :
 
