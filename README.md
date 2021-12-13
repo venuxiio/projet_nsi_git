@@ -29,6 +29,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 https://github.com/venuxiio/projet_nsi_git/projects/1
+
+Si on s'en tient au planning il nous restera 4h on pourra donc déborder un peu sur certains temps...
+
 chronologie:
 
 - définir le labyrinthe 
