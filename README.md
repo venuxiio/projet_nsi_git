@@ -1,4 +1,4 @@
-# projet_nsi_git
+# escape_adventure
 Jade RICHEZ, Perrine BRON
 
 jeu en vue contre plongée (exemple pokémon)
