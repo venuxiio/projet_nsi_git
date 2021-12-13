@@ -62,6 +62,6 @@ Idee du labyrinthe :
 
 liens:
 
-https://www.youtube.com/watch?v=ooITOxbYVTo
+tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
 
-https://pixelover.io/
+dessiner en pixel: https://pixelover.io/
