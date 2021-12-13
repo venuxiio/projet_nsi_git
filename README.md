@@ -1,4 +1,4 @@
-# escape_adventure
+# projet_nsi_git
 Jade RICHEZ, Perrine BRON
 
 jeu en vue contre plongée (exemple pokémon)
@@ -29,9 +29,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 https://github.com/venuxiio/projet_nsi_git/projects/1
-
-Si on s'en tient au planning il nous restera 4h on pourra donc déborder un peu sur certains temps...
-
 chronologie:
 
 - définir le labyrinthe 
@@ -68,3 +65,13 @@ liens:
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
 
 dessiner en pixel: https://pixelover.io/
+
+logiciels :
+
+Jpixel qui permet de creer des animations en pixel
+
+lien pour telecharger:https://emad.itch.io/jpixel
+
+Tiles
+
+lien pour telecharger:https://thorbjorn.itch.io/tiled
