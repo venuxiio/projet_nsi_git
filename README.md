@@ -28,6 +28,7 @@ ________________________________________________________________________________
 - pour le moment commencer par mettre une seule petite maison avec un mini jeu dedans pour tester
 ______________________________________________________________________________________________________
 
+https://github.com/venuxiio/projet_nsi_git/projects/1
 chronologie:
 
 - définir le labyrinthe 
