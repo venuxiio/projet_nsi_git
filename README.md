@@ -63,11 +63,13 @@ exemple du logiciel Tiled qui permet de creer des maps
 
 
 
+
 liens:
 
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
 
 dessiner en pixel: https://pixelover.io/
+
 
 
 
