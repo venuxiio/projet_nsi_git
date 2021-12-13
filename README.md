@@ -29,9 +29,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 https://github.com/venuxiio/projet_nsi_git/projects/1
-
-Si on s'en tient au planning il nous restera 4h, ce qui nous permet de déborder un peu sur cetaines tâches
-
 chronologie:
 
 - définir le labyrinthe 
@@ -82,6 +79,10 @@ Jpixel qui permet de creer des animations en pixel
 
 lien pour telecharger:https://emad.itch.io/jpixel
 
-Tiles
+Tiles pour creer des maps
 
 lien pour telecharger:https://thorbjorn.itch.io/tiled
+
+Bosca ceoil pour creer des musiques 
+
+lien pour telecharger:https://terrycavanagh.itch.io/bosca-ceoil
