@@ -63,7 +63,7 @@ exemple du logiciel Tiled qui permet de creer des maps
 
 
 
-
+______________________________________________________________________________________________________
 liens:
 
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
@@ -72,7 +72,7 @@ dessiner en pixel: https://pixelover.io/
 
 
 
-
+______________________________________________________________________________________________________
 logiciels :
 
 Jpixel qui permet de creer des animations en pixel
