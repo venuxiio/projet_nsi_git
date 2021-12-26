@@ -64,8 +64,12 @@ Idee du labyrinthe :
 ![image](https://user-images.githubusercontent.com/95481660/145786144-4e16f51e-8a48-4ebd-8952-1f184bff4e7f.png)
 exemple du logiciel Tiled qui permet de creer des maps
 ______________________________________________________________________________________________________
+Labyrinthe
 
 
+![carte](https://user-images.githubusercontent.com/95481660/147416175-d0785489-e5e4-40e6-9f09-200f8ae46556.png)
+
+______________________________________________________________________________________________________
 Idee de l'interieur de la maison
 
 ![image](https://user-images.githubusercontent.com/95481660/146652571-97f67b3b-8d09-480f-99ad-19896161a9be.png)
