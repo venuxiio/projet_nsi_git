@@ -85,7 +85,7 @@ tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
 
 dessiner en pixel: https://pixelover.io/
 
-
+lien pour telecharger des tiles: https://itch.io/game-assets/tag-tileset
 
 ______________________________________________________________________________________________________
 logiciels :
