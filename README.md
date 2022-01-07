@@ -84,6 +84,10 @@ liens:
 
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
 
+lien pytmx : https://www.pygame.org/project-Tiled+TMX+Loader-2036-.html
+
+lien pyscroll : https://github.com/bitcraft/pyscroll
+
 dessiner en pixel: https://pixelover.io/
 
 lien pour telecharger des tiles: https://itch.io/game-assets/tag-tileset
