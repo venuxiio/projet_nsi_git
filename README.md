@@ -46,8 +46,7 @@ chronologie:
 References:
 
 
-![image](https://github.com/venuxiio/projet_nsi_git/blob/main/8d8b062d26bba8fe1bd7a7b76983ac7e.gif) ; ![image](https://user-images.githubusercontent.com/95481694/145581123-5fd0c17f-ec84-4bbe-9615-cbc054b1292b.png)
-
+![8d8b062d26bba8fe1bd7a7b76983ac7e](https://user-images.githubusercontent.com/95481660/148552243-fee52830-9433-40b3-838f-67121b02853e.gif)
 
 ![image](https://user-images.githubusercontent.com/95481694/145578967-6b2150a0-a88c-4151-9629-f9c089327240.png) ; ![image](https://user-images.githubusercontent.com/95481694/145579029-c0f4663f-897a-4eca-a8bb-c9506566b5ae.png)
 
