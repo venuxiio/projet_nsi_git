@@ -66,9 +66,9 @@ ________________________________________________________________________________
 Labyrinthe
 
 
-![carte](https://user-images.githubusercontent.com/95481660/147416209-4f030bfe-9538-4914-a031-23588ea39368.png)
+![labyrinthe2](https://user-images.githubusercontent.com/95481694/148841653-711c6b59-d783-4af1-9259-d8cb3fd3d29d.png)
 
-dimentions: largeur 2240 et hauteur: 2272
+dimentions: largeur 2240 et hauteur: 2270
 
 
 ______________________________________________________________________________________________________
