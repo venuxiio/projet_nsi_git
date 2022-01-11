@@ -66,10 +66,10 @@ ________________________________________________________________________________
 Labyrinthe
 
 
-![labyrinthe2](https://user-images.githubusercontent.com/95481694/148841653-711c6b59-d783-4af1-9259-d8cb3fd3d29d.png)
 
-dimentions: largeur 2240 et hauteur: 2270
+dimentions: largeur 1600 et hauteur: 1600
 
+<img width="800" alt="Escape - Adventure" src="https://user-images.githubusercontent.com/95481660/149009056-36351441-6281-4d1b-9ddb-3fb52ce06be9.png">
 
 ______________________________________________________________________________________________________
 Idee de l'interieur de la maison
