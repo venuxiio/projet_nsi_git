@@ -1,4 +1,7 @@
 # projet_nsi_git
+
+On a mis a jour le main.py je n'ai pas réussi avec l'aide de Ambroise de connecter le replit au github du coup j'ai copié collé le code dans le main.py car la semaine d'avant nous n'avons pas mis à jour celui-ci et nous avons mis dans le tableau avec les choses à faire un résumé de chaque séances. https://github.com/venuxiio/projet_nsi_git/projects/1
+
 Jade RICHEZ, Perrine BRON
 
 jeu en vue contre plongée (exemple pokémon)
