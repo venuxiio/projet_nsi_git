@@ -51,7 +51,8 @@ References:
 
 ![8d8b062d26bba8fe1bd7a7b76983ac7e](https://user-images.githubusercontent.com/95481660/148552243-fee52830-9433-40b3-838f-67121b02853e.gif)
 
-![image](https://user-images.githubusercontent.com/95481694/145578967-6b2150a0-a88c-4151-9629-f9c089327240.png) ; ![image](https://user-images.githubusercontent.com/95481694/145579029-c0f4663f-897a-4eca-a8bb-c9506566b5ae.png)
+![image](https://user-images.githubusercontent.com/95481694/145578967-6b2150a0-a88c-4151-9629-f9c089327240.png) ; ![image](https://user-images.githubusercontent.com/95481694/!
+145579029-c0f4663f-897a-4eca-a8bb-c9506566b5ae.png)
 
 
 ![image](https://user-images.githubusercontent.com/95481694/145579738-15fb2a74-dddd-4c99-8c1e-bc3dc83667f2.png)
@@ -66,9 +67,11 @@ Idee du labyrinthe :
 ![image](https://user-images.githubusercontent.com/95481660/145786144-4e16f51e-8a48-4ebd-8952-1f184bff4e7f.png)
 exemple du logiciel Tiled qui permet de creer des maps
 ______________________________________________________________________________________________________
+banane
+
+[Banana](https://user-images.githubusercontent.com/95481694/149668410-8cbd588a-804a-4477-9809-c1fc977373db.png)
+
 Labyrinthe
-
-
 
 dimentions: largeur 1600 et hauteur: 1600
 
