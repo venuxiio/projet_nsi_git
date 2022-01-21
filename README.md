@@ -100,7 +100,7 @@ dessiner en pixel: https://pixelover.io/
 
 lien pour telecharger des tiles: https://itch.io/game-assets/tag-tileset
 
-https://sciences-du-numerique.fr/tuto-pygame/pytmx.html
+lien pour voir pour le memory: https://stackoverflow.com/questions/14636320/card-matching-game-on-python
 ______________________________________________________________________________________________________
 logiciels :
 
