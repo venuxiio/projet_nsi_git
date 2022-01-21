@@ -100,6 +100,7 @@ dessiner en pixel: https://pixelover.io/
 
 lien pour telecharger des tiles: https://itch.io/game-assets/tag-tileset
 
+https://sciences-du-numerique.fr/tuto-pygame/pytmx.html
 ______________________________________________________________________________________________________
 logiciels :
 
