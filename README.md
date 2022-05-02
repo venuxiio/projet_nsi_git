@@ -75,7 +75,7 @@ Labyrinthe
 
 dimentions: largeur 1600 et hauteur: 1600
 
-<img width="800" alt="Escape - Adventure" src="https://user-images.githubusercontent.com/95481660/149009056-36351441-6281-4d1b-9ddb-3fb52ce06be9.png">
+![carte](https://user-images.githubusercontent.com/95481660/166211011-093efc05-5b1b-4238-b5d8-af00ca0c6809.png)
 
 ______________________________________________________________________________________________________
 Idee de l'interieur de la maison
