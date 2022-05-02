@@ -97,7 +97,7 @@ ________________________________________________________________________________
 Règle du qcm Barthélémy:
 Bonjour a tous et bienvenue dans mon qcm! Je vais tout de suite vous expliquer les règle de mon mini jeu! Vous allez vous retrouver face à un qcm qui va porter sur des questions de cours mais vous devez faire comme dans questions pour un champion! En effet vous devez répondre juste à 4 questions à la suite. Attention si vous faites faux vous retomberez à 0 et vous devrez tout recommencer!
 
-______________________________________________________________________________________________________*
+______________________________________________________________________________________________________
 
 liens:
 
