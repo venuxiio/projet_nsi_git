@@ -99,6 +99,11 @@ Bonjour a tous et bienvenue dans mon qcm! Je vais tout de suite vous expliquer l
 
 ______________________________________________________________________________________________________
 
+Règle du jeu des boules qui éclatent :
+Bravo! Vous avez réussi à accéder à la dernière maison, maitenant il vous reste plus qu'un jeu. Un jeu jsplus le nom mais les règles sont simples: vous devez éclater toutes les boules pour gagner et sortir. Pour éclater les boules vous aurais une planche mobile avec une boule noire. Bonne chance!
+
+______________________________________________________________________________________________________
+
 liens:
 
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
