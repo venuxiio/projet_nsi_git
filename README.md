@@ -82,9 +82,11 @@ Idee de l'interieur de la maison
 
 ![image](https://user-images.githubusercontent.com/95481660/146652571-97f67b3b-8d09-480f-99ad-19896161a9be.png)
 
+______________________________________________________________________________________________________
+liens:
 
-
-
+Règle du memory :
+Maintenant que vous avez reussi a entré dans la maison, vous devez jouer a un jeu de memory afin de passer de l'autre côté de la maisonn et poursuivre votre chemin. Les règles du jeu sont simples: vous devez retourner les cartes afin de trouver toutes les paires. 
 ______________________________________________________________________________________________________
 liens:
 
