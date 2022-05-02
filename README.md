@@ -82,12 +82,23 @@ Idee de l'interieur de la maison
 
 ![image](https://user-images.githubusercontent.com/95481660/146652571-97f67b3b-8d09-480f-99ad-19896161a9be.png)
 
+
 ______________________________________________________________________________________________________
-liens:
+
+Regles du jeu global:
+Bonjour et bienvenue dans Escape Adventures! Je vais vous expliquer les règles du jeu. Tout d'abord votre objectif principal c'est de sortir du labyrinthe. Mais attention dans ce labyrinthe (non rassurez vous vous êtes seuls il n'y a pas d'ennemis) mais il y a des petites maisons dans lesquels il y a des épreuves. Vous le verrez il y a trois petites maisons mais ne vous précipitez pas dessus vous avez besoins de quelque chose pour les ouvrir! Fouillez bien tout les petits chemins ! Je vous souhaite bonne chance!
+______________________________________________________________________________________________________
 
 Règle du memory :
 Maintenant que vous avez reussi a entré dans la maison, vous devez jouer a un jeu de memory afin de passer de l'autre côté de la maisonn et poursuivre votre chemin. Les règles du jeu sont simples: vous devez retourner les cartes afin de trouver toutes les paires. 
+
 ______________________________________________________________________________________________________
+
+Règle du qcm Barthélémy:
+Bonjour a tous et bienvenue dans mon qcm! Je vais tout de suite vous expliquer les règle de mon mini jeu! Vous allez vous retrouver face à un qcm qui va porter sur des questions de cours mais vous devez faire comme dans questions pour un champion! En effet vous devez répondre juste à 4 questions à la suite. Attention si vous faites faux vous retomberez à 0 et vous devrez tout recommencer!
+
+______________________________________________________________________________________________________*
+
 liens:
 
 tuto pygame : https://www.youtube.com/watch?v=ooITOxbYVTo
