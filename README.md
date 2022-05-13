@@ -119,6 +119,8 @@ dessiner en pixel: https://pixelover.io/
 lien pour telecharger des tiles: https://itch.io/game-assets/tag-tileset
 
 lien pour voir pour le memory: https://stackoverflow.com/questions/14636320/card-matching-game-on-python
+
+lien pour créer une page d'accueil: https://www.geeksforgeeks.org/creating-start-menu-in-pygame/
 ______________________________________________________________________________________________________
 logiciels :
 
