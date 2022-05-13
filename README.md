@@ -121,6 +121,7 @@ lien pour telecharger des tiles: https://itch.io/game-assets/tag-tileset
 lien pour voir pour le memory: https://stackoverflow.com/questions/14636320/card-matching-game-on-python
 
 lien pour créer une page d'accueil: https://www.geeksforgeeks.org/creating-start-menu-in-pygame/
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do3VHJ7g7M08&psig=AOvVaw1xsLlno4gO-b0RvSiFzDTq&ust=1652531349593000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCKjmxZK93PcCFQAAAAAdAAAAABAE
 
 lien pour créer un compteur ?: https://stackoverflow.com/questions/55327065/python-pygame-how-do-i-add-a-time-counter-for-my-game
 ______________________________________________________________________________________________________
