@@ -1,0 +1,20 @@
+Question;Rep1;Rep2;Rep3;Rep4;Solution
+Quelle commande permet d'ajouter un élément à la fin d'une liste ?;add;insert;append;push;3
+1+1= ?;1;2;3;11;2
+Quelle est l'écriture décimale de l'entier qui s'écrit 1010 en binaire ?;5;10;20;22;2
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84. Quelle est l'écriture en base 16 de leur somme ?;1811;12B;13A;A784;2
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?;2;3;4;5;2
+Le résultat de la soustraction en binaire 101001 - 101 est égal au nombre binaire :;100900;101110;100100;100110;3
+Quelle est l'écriture en hexadécimal (base 16) du nombre entier positif qui s'écrit 1110 1101 en base 2 ?;DE;ED;EDF;FEFD;2
+On définit L = [2, 3, 5, 7, -4].En demandant la valeur de L[5], qu'obtient-on ?;-4;2;3;une erreur;4
+On définit les notes des élèves dans le dictionnaire suivant : notes = { 'Pierre' : 9, 'Paule' : 16, 'Claire' : 12, 'Sophie' : 11, 'Yasmine' : 8, 'David' : 17, 'Julie' : 3 }Quelle expression permet d'accéder à la note de l’élève Claire ?;notes[12];notes[2];notes['Claire'];notes.values('Claire');3
+Laquelle de ces affirmations est vraie ?;on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python;CSV est un format de chiffrement des données;le format CSV a été conçu pour asssurer la confidentialité d'une partie du code d'un programme;les fichiers CSV sont composés de données séparées par des caractères comme des virgules;4
+On a défini deux tables de données : data1 = [('Bruce', 'Wayne'), ('Chuck', 'Norris'), ('Bruce', 'Lee'), ('Clark', 'Kent')]  data2 = [('Diana', 'Prince'), ('Chuck', 'Norris'), ('Peter', 'Parker')] Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et data2 ?;data = data1 + data2;data == data1 + data2;data = [element for element in data1 or data2];data = [data1] + [data2];1
+On considère la table suivante : t = [{"type": "marteau", "prix": 17, "quantité": 32},{"type": "scie", "prix": 24, "quantité": 3},{"type": "tournevis", "prix": 8, "quantité": 45} ]  Quelle expression permet d'obtenir la quantité de scies ?;t[2]["quantité"];t[1]["quantité"];t["quantité"][1];t["scies"]["quantité"];2
+Un fichier CSV ;ne peut être lu que par un tableur;est l'unique format utilisé pour construire une base de données;est un fichier texte;est un format propriétaire;3
+On utilise habituellement un fichier d'extension csv pour quel type de données ?;des données structurées graphiquement;des données sonores;des données compressées;des données structurées en tableau;4
+Si la variable note est définie par note = ["do", "ré", "mi", "fa", "sol", "la", "si"] alors :;l'index de "sol" est 5;l'index de note est 0;l'index de "si" est 7;l'index de "mi" est 2,;4
+Après l'affectation suivante : alphabet = [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M','N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]  quelle est l'expression qui permet d'accéder à la lettre E ?;alphabet.E;alphabet['E'];alphabet[4];alphabet[5];3
+Si a vaut False et b vaut True, que vaut l’expression booléenne NOT(a AND b) ?;0;False;True;None;3
+On définit : L = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]. Quelle est la valeur de L[L[3]] ?;3;4;7;8;1
+On construit une matrice par compréhension  : M = [ [i*j for j in range(4)] for i in range(4) ] Laquelle des conditions suivantes est-elle vérifiée  ?;M[4][4] == 16;M[0][1] == 1;M[2][3] == 6;M[1][2] == 3;3
